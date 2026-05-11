@@ -42,13 +42,30 @@ const agents = [
       "AI-powered Airbnb and travel intelligence assistant capable of conversational workflows, recommendation systems, and intelligent booking exploration.",
 
     live:
-      "https://airbnb-mcp-ai-agent.onrender.com",
+      "https://airbnb-mcp-ai-agent.onrender.com/",
 
     github:
       "https://github.com/inteshabul-haque/airbnb-mcp-ai-agent",
 
     status: "ACTIVE",
   },
+
+  {
+  id: 4,
+
+  title: "AI ARCHAEOLOGIST OF CIVILIZATION",
+
+  description:
+    "AI-powered civilization exploration system capable of uncovering forgotten empires, archaeology insights, historical timelines, and ancient intelligence narratives.",
+
+  live:
+    "https://ai-archaeologist-of-civilization.onrender.com/",
+
+  github:
+    "https://github.com/inteshabul-haque/ai-archaeologist-of-civilization",
+
+  status: "ACTIVE",
+},
 ];
 
 export default agents;
