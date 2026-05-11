@@ -42,12 +42,12 @@ const agents = [
       "AI-powered Airbnb and travel intelligence assistant capable of conversational workflows, recommendation systems, and intelligent booking exploration.",
 
     live:
-      "https://github.com/inteshabul-haque/airbnb-mcp-ai-agent",
+      "https://airbnb-mcp-ai-agent.onrender.com",
 
     github:
       "https://github.com/inteshabul-haque/airbnb-mcp-ai-agent",
 
-    status: "DEVELOPMENT",
+    status: "ACTIVE",
   },
 ];
 
